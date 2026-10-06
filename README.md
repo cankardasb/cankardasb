@@ -24,4 +24,4 @@ Ansys HFSS · CST Studio Suite · MATLAB · ESP32 · nRF52840 · LTspice · OrCA
 
 ### Contact
 
-bilal.cankardas.02@gmail.com · [LinkedIn](https://www.linkedin.com/in/bilal-cankarda%C5%9F-40ab3a222/)
+bilal.cankardas.02@gmail.com · [LinkedIn](https://www.linkedin.com/in/bilalcankardas/)
